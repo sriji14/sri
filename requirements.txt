@@ -1,5 +1,4 @@
 altair==4.2.2
-appdirs @ file:///home/conda/feedstock_root/build_artifacts/appdirs_1603108395799/work
 arviz @ file:///home/conda/feedstock_root/build_artifacts/arviz_1678789125032/work
 asttokens @ file:///home/conda/feedstock_root/build_artifacts/asttokens_1670263926556/work
 attrs==22.2.0
